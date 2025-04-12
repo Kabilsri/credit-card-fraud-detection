@@ -2,12 +2,6 @@
 
 This project uses machine learning to detect fraudulent credit card transactions based on real-world anonymized data. Fraud detection is a critical application of data science that helps protect financial institutions and customers from financial loss.
 
----
-
-## 📁 Project Structure
-
-
----
 
 ## 🧾 Dataset Overview
 
